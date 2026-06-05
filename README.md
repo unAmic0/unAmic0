@@ -30,7 +30,7 @@ Currently working with the React ecosystem and continuously improving my skills 
 - Git & GitHub
 - Vite
 - Webpack
-- npm / pnpm
+- bun / npm / pnpm
 - Figma
 - REST API
 - Postman
