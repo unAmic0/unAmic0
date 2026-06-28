@@ -29,7 +29,6 @@ Currently working with the React ecosystem and continuously improving my skills 
 ### Tools
 - Git & GitHub
 - Vite
-- Webpack
 - bun / npm / pnpm
 - Figma
 - REST API
